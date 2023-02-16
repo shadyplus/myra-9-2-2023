@@ -1075,6 +1075,7 @@ changed article header
 .comments-area article header img {
 	padding: 0;
 	line-height: 0;
+	border-radius: 20px;
 }
 .comments-area article header cite,
 .comments-area article header time {
